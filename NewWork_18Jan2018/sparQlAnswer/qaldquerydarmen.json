@@ -1,0 +1,2382 @@
+[
+  {
+    "ID": 15000,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Russia> . ?uri <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Soviet_Union> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Astronaut>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Russia> . ?uri <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Soviet_Union> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Astronaut>}",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15001,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Ganges> <http://dbpedia.org/ontology/sourceCountry> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Ganges> <http://dbpedia.org/ontology/sourceCountry> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15002,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15003,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15004,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/John_F._Kennedy> <http://dbpedia.org/ontology/vicePresident> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/John_F._Kennedy> <http://dbpedia.org/ontology/vicePresident> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15005,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Berlin> <http://dbpedia.org/ontology/leader> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Berlin> <http://dbpedia.org/ontology/leader> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15006,
+    "Query1": "SELECT (COUNT(DISTINCT ?x) as ?c) WHERE{ <http://dbpedia.org/resource/VU_University_Amsterdam> <http://dbpedia.org/ontology/numberOfStudents> ?v1. }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15007,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15008,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15009,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15010,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15011,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Bandleader> . ?uri <http://dbpedia.org/ontology/instrument> <http://dbpedia.org/resource/Trumpet> . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Bandleader> . ?uri <http://dbpedia.org/ontology/instrument> <http://dbpedia.org/resource/Trumpet> . }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15012,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15013,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15014,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Orangina> <http://dbpedia.org/ontology/product> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Orangina> <http://dbpedia.org/ontology/product> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15015,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15016,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15017,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15018,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/The_Prodigy> <http://dbpedia.org/ontology/bandMember> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/The_Prodigy> <http://dbpedia.org/ontology/bandMember> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15019,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15020,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/numberOfEpisodes> <http://dbpedia.org/resource/Breaking_Bad> . ?uri <http://dbpedia.org/ontology/numberOfEpisodes> <http://dbpedia.org/resource/Game_of_Thrones> . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/numberOfEpisodes> <http://dbpedia.org/resource/Breaking_Bad> . ?uri <http://dbpedia.org/ontology/numberOfEpisodes> <http://dbpedia.org/resource/Game_of_Thrones> . }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15021,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15022,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15023,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Vienna> . ?uri <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Berlin> . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Vienna> . ?uri <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Berlin> . }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15024,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15025,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Michael_Jordan> <http://dbpedia.org/ontology/height> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Michael_Jordan> <http://dbpedia.org/ontology/height> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15026,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Canada> <http://dbpedia.org/ontology/capital> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Canada> <http://dbpedia.org/ontology/capital> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15027,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15028,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15029,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15030,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15031,
+    "Query1": "SELECT (COUNT(DISTINCT ?x) as ?c) WHERE{ <http://dbpedia.org/resource/Turkmenistan> <http://dbpedia.org/ontology/language> ?v1. }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15032,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15033,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Francis_Ford_Coppola> . ?uri <http://www.w3.org/1999/02/22-rdf-syntax-ns#> <http://dbpedia.org/ontology/Film>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Francis_Ford_Coppola> . ?uri <http://www.w3.org/1999/02/22-rdf-syntax-ns#> <http://dbpedia.org/ontology/Film>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Francis_Ford_Coppola> <http://dbpedia.org/ontology/director> ?uri. ?uri <http://www.w3.org/1999/02/22-rdf-syntax-ns#> <http://dbpedia.org/ontology/Film>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Francis_Ford_Coppola> <http://dbpedia.org/ontology/director> ?uri. ?uri <http://www.w3.org/1999/02/22-rdf-syntax-ns#> <http://dbpedia.org/ontology/Film>}"
+  },
+  {
+    "ID": 15034,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/William_Shatner> . ?x <http://dbpedia.org/ontology/starring> ?uri . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/William_Shatner> . ?x <http://dbpedia.org/ontology/starring> ?uri . }",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/William_Shatner> <http://dbpedia.org/ontology/director> ?x. ?x <http://dbpedia.org/ontology/starring> ?uri }",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/William_Shatner> <http://dbpedia.org/ontology/director> ?x. ?x <http://dbpedia.org/ontology/starring> ?uri }"
+  },
+  {
+    "ID": 15035,
+    "Query1": "ASK WHERE { <http://dbpedia.org/resource/Hylidae> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Amphibian> }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15036,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15037,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15038,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Jane_Fonda> <http://dbpedia.org/ontology/spouse> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Jane_Fonda> <http://dbpedia.org/ontology/spouse> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15039,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15040,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/T._E._Lawrence> <http://dbpedia.org/ontology/battle> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/T._E._Lawrence> <http://dbpedia.org/ontology/battle> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15041,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Minecraft> <http://dbpedia.org/ontology/developer> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Minecraft> <http://dbpedia.org/ontology/developer> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15042,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15043,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15044,
+    "Query1": "SELECT (COUNT(DISTINCT ?x) as ?c) WHERE{ <http://dbpedia.org/resource/Maribor> <http://dbpedia.org/ontology/populationTotal> ?v1. }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15045,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15046,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Claudia_Schiffer> <http://dbpedia.org/ontology/height> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Claudia_Schiffer> <http://dbpedia.org/ontology/height> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15047,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/GMT_Games> <http://dbpedia.org/ontology/publisher> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/GMT_Games> <http://dbpedia.org/ontology/publisher> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15048,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Intel> <http://dbpedia.org/ontology/foundedBy> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Intel> <http://dbpedia.org/ontology/foundedBy> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15049,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15050,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15051,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Weser> <http://dbpedia.org/ontology/city> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Weser> <http://dbpedia.org/ontology/city> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15052,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15053,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15054,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15055,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/headquarter> <http://dbpedia.org/resource/Secret_Intelligence_Service> . ?uri <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/headquarter> <http://dbpedia.org/resource/Secret_Intelligence_Service> . ?uri <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> . }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15056,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15057,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Goofy> <http://dbpedia.org/ontology/creator> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Goofy> <http://dbpedia.org/ontology/creator> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15058,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/date> <http://dbpedia.org/resource/Cuban_missile_crisis> . ?uri <http://dbpedia.org/ontology/date> <http://dbpedia.org/resource/Bay_of_Pigs_Invasion> . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/date> <http://dbpedia.org/resource/Cuban_missile_crisis> . ?uri <http://dbpedia.org/ontology/date> <http://dbpedia.org/resource/Bay_of_Pigs_Invasion> . }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15059,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Japan> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Island>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Japan> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Island>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Japan> <http://dbpedia.org/ontology/country> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Island>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Japan> <http://dbpedia.org/ontology/country> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Island>}"
+  },
+  {
+    "ID": 15060,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15061,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15062,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15063,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15064,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15065,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Apollo_14> <http://dbpedia.org/ontology/mission> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Apollo_14> <http://dbpedia.org/ontology/mission> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15066,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15067,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15068,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15069,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15070,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15071,
+    "Query1": "ASK WHERE { <http://dbpedia.org/resource/Socrates> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Aristotle> }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15072,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Denmark> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Denmark> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Denmark> <http://dbpedia.org/ontology/country> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Denmark> <http://dbpedia.org/ontology/country> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}"
+  },
+  {
+    "ID": 15073,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/operator> <http://dbpedia.org/resource/NASA> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/LaunchPad>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/operator> <http://dbpedia.org/resource/NASA> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/LaunchPad>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/NASA> <http://dbpedia.org/ontology/operator> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/LaunchPad>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/NASA> <http://dbpedia.org/ontology/operator> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/LaunchPad>}"
+  },
+  {
+    "ID": 15074,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Cat_Stevens> <http://dbpedia.org/ontology/instrument> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Cat_Stevens> <http://dbpedia.org/ontology/instrument> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15075,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15076,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Juan_Carlos_I_of_Spain> . ?x <http://dbpedia.org/ontology/parent> ?uri . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Juan_Carlos_I_of_Spain> . ?x <http://dbpedia.org/ontology/parent> ?uri . }",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Juan_Carlos_I_of_Spain> <http://dbpedia.org/ontology/spouse> ?x. ?x <http://dbpedia.org/ontology/parent> ?uri }",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Juan_Carlos_I_of_Spain> <http://dbpedia.org/ontology/spouse> ?x. ?x <http://dbpedia.org/ontology/parent> ?uri }"
+  },
+  {
+    "ID": 15077,
+    "Query1": "SELECT (COUNT(DISTINCT ?x) as ?c) WHERE{ <http://dbpedia.org/resource/Google> <http://dbpedia.org/ontology/numberOfEmployees> ?v1. }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15078,
+    "Query1": "ASK WHERE { <http://dbpedia.org/resource/Nikola_Tesla> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Nobel_Prize_in_Physics> }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15079,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/New_Jersey> . ?x <http://dbpedia.org/ontology/populationTotal> ?uri . ?x <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/New_Jersey> . ?x <http://dbpedia.org/ontology/populationTotal> ?uri . ?x <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City>}",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15080,
+    "Query1": "ASK WHERE { <http://dbpedia.org/resource/Tom_Hanks> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Rita_Wilson> }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15081,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15082,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15083,
+    "Query1": "SELECT (COUNT(DISTINCT ?x) as ?c) WHERE{ <http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/ontology/child> ?v1. }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15084,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Michael_Jackson> <http://dbpedia.org/ontology/deathDate> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Michael_Jackson> <http://dbpedia.org/ontology/deathDate> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15085,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15086,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Margaret_Thatcher> <http://dbpedia.org/ontology/child> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Margaret_Thatcher> <http://dbpedia.org/ontology/child> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15087,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15088,
+    "Query1": "ASK WHERE { <http://dbpedia.org/resource/Margaret_Thatcher> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Chemist> }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15089,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15090,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/The_Scream> <http://dbpedia.org/ontology/museum> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/The_Scream> <http://dbpedia.org/ontology/museum> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15091,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/William_Goldman> . ?x <http://dbpedia.org/ontology/numberOfPages> ?uri . ?x <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/William_Goldman> . ?x <http://dbpedia.org/ontology/numberOfPages> ?uri . ?x <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book>}",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15092,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/Viking_Press> . ?uri <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Jack_Kerouac> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/Viking_Press> . ?uri <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Jack_Kerouac> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book>}",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15093,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15094,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Mount_Everest> <http://dbpedia.org/ontology/elevation> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Mount_Everest> <http://dbpedia.org/ontology/elevation> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15095,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15096,
+    "Query1": "SELECT (COUNT(DISTINCT ?x) as ?c) WHERE { ?x <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Australia> . ?x <http://dbpedia.org/ontology/populationTotal> ?uri . }",
+    "Query2": "SELECT (COUNT(DISTINCT ?x) as ?c) WHERE { <http://dbpedia.org/resource/Australia> <http://dbpedia.org/ontology/capital> ?x. ?x <http://dbpedia.org/ontology/populationTotal> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15097,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Australia> <http://dbpedia.org/ontology/largestCity> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Australia> <http://dbpedia.org/ontology/largestCity> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15098,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Harold_and_Maude> <http://dbpedia.org/ontology/musicComposer> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Harold_and_Maude> <http://dbpedia.org/ontology/musicComposer> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15099,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Clint_Eastwood> . ?uri <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Clint_Eastwood> . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Clint_Eastwood> . ?uri <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Clint_Eastwood> . }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15100,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/restingPlace> <http://dbpedia.org/resource/Juliana_of_the_Netherlands> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/restingPlace> <http://dbpedia.org/resource/Juliana_of_the_Netherlands> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Juliana_of_the_Netherlands> <http://dbpedia.org/ontology/restingPlace> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Juliana_of_the_Netherlands> <http://dbpedia.org/ontology/restingPlace> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement>}"
+  },
+  {
+    "ID": 15101,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/largestCity> <http://dbpedia.org/resource/Egypt> . ?uri <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Egypt> . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/largestCity> <http://dbpedia.org/resource/Egypt> . ?uri <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Egypt> . }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15102,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15103,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15104,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Bruce_Springsteen> . ?x <http://dbpedia.org/ontology/releaseDate> ?uri . ?x <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Song>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Bruce_Springsteen> . ?x <http://dbpedia.org/ontology/releaseDate> ?uri . ?x <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Song>}",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15105,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15106,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15107,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15108,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/Ramones> . ?x <http://dbpedia.org/ontology/bSide> ?uri . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/Ramones> . ?x <http://dbpedia.org/ontology/bSide> ?uri . }",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Ramones> <http://dbpedia.org/ontology/musicalArtist> ?x. ?x <http://dbpedia.org/ontology/bSide> ?uri }",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Ramones> <http://dbpedia.org/ontology/musicalArtist> ?x. ?x <http://dbpedia.org/ontology/bSide> ?uri }"
+  },
+  {
+    "ID": 15109,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15110,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Miffy> . ?x <http://dbpedia.org/ontology/nationality> ?uri . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Miffy> . ?x <http://dbpedia.org/ontology/nationality> ?uri . }",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Miffy> <http://dbpedia.org/ontology/creator> ?x. ?x <http://dbpedia.org/ontology/nationality> ?uri }",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Miffy> <http://dbpedia.org/ontology/creator> ?x. ?x <http://dbpedia.org/ontology/nationality> ?uri }"
+  },
+  {
+    "ID": 15111,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15112,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Charmed> . ?x <http://dbpedia.org/ontology/birthDate> ?uri . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Charmed> . ?x <http://dbpedia.org/ontology/birthDate> ?uri . }",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Charmed> <http://dbpedia.org/ontology/starring> ?x. ?x <http://dbpedia.org/ontology/birthDate> ?uri }",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Charmed> <http://dbpedia.org/ontology/starring> ?x. ?x <http://dbpedia.org/ontology/birthDate> ?uri }"
+  },
+  {
+    "ID": 15113,
+    "Query1": "SELECT (COUNT(DISTINCT ?x) as ?c) WHERE{ <http://dbpedia.org/resource/IBM> <http://dbpedia.org/ontology/numberOfEmployees> ?v1. }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15114,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15115,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Limerick_Lake> <http://dbpedia.org/ontology/country> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Limerick_Lake> <http://dbpedia.org/ontology/country> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15116,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/John_Cleese> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/John_Cleese> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/John_Cleese> <http://dbpedia.org/ontology/creator> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/John_Cleese> <http://dbpedia.org/ontology/creator> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow>}"
+  },
+  {
+    "ID": 15117,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/elevation> <http://dbpedia.org/resource/Annapurna> . ?x <http://dbpedia.org/ontology/elevation> ?uri . ?x <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/elevation> <http://dbpedia.org/resource/Annapurna> . ?x <http://dbpedia.org/ontology/elevation> ?uri . ?x <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain>}",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15118,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Julia_Roberts> . ?uri <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Garry_Marshall> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Julia_Roberts> . ?uri <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Garry_Marshall> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15119,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15120,
+    "Query1": "ASK WHERE { <http://dbpedia.org/resource/Andrew_Jackson> <http://dbpedia.org/ontology/battle> ?v1. }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15121,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15122,
+    "Query1": "ASK WHERE { <http://dbpedia.org/resource/Douglas_Hofstadter> <http://dbpedia.org/ontology/award> ?v1. }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15123,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Robert_F._Kennedy> . ?x <http://dbpedia.org/ontology/spouse> ?uri . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Robert_F._Kennedy> . ?x <http://dbpedia.org/ontology/spouse> ?uri . }",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Robert_F._Kennedy> <http://dbpedia.org/ontology/child> ?x. ?x <http://dbpedia.org/ontology/spouse> ?uri }",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Robert_F._Kennedy> <http://dbpedia.org/ontology/child> ?x. ?x <http://dbpedia.org/ontology/spouse> ?uri }"
+  },
+  {
+    "ID": 15124,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15125,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Czech_Republic> <http://dbpedia.org/ontology/currency> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Czech_Republic> <http://dbpedia.org/ontology/currency> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15126,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15127,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Berlin> <http://dbpedia.org/ontology/areaCode> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Berlin> <http://dbpedia.org/ontology/areaCode> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15128,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15129,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Rolls-Royce_Motors> <http://dbpedia.org/ontology/owner> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Rolls-Royce_Motors> <http://dbpedia.org/ontology/owner> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15130,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Yenisei> <http://dbpedia.org/ontology/country> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Yenisei> <http://dbpedia.org/ontology/country> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15131,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15132,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15133,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Battle_of_Gettysburg> <http://dbpedia.org/ontology/date> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Battle_of_Gettysburg> <http://dbpedia.org/ontology/date> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15134,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Brooklyn_Bridge> <http://dbpedia.org/ontology/crosses> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Brooklyn_Bridge> <http://dbpedia.org/ontology/crosses> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15135,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Australia> . ?x <http://dbpedia.org/ontology/elevation> ?uri . ?x <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Australia> . ?x <http://dbpedia.org/ontology/elevation> ?uri . ?x <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain>}",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15136,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15137,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Suriname> <http://dbpedia.org/ontology/officialLanguage> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Suriname> <http://dbpedia.org/ontology/officialLanguage> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15138,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Tel_Aviv> <http://dbpedia.org/ontology/leaderName> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Tel_Aviv> <http://dbpedia.org/ontology/leaderName> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15139,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Brooklyn_Bridge> <http://dbpedia.org/ontology/architect> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Brooklyn_Bridge> <http://dbpedia.org/ontology/architect> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15140,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15141,
+    "Query1": "ASK WHERE { <http://dbpedia.org/resource/Frank_Herbert> <http://dbpedia.org/ontology/deathDate> ?v1. }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15142,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15143,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Forbes> <http://dbpedia.org/ontology/editor> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Forbes> <http://dbpedia.org/ontology/editor> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15144,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15145,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15146,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Bruce_Carver> <http://dbpedia.org/ontology/deathCause> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Bruce_Carver> <http://dbpedia.org/ontology/deathCause> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15147,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15148,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15149,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/office> <http://dbpedia.org/resource/Chancellor_of_Germany> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/office> <http://dbpedia.org/resource/Chancellor_of_Germany> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Chancellor_of_Germany> <http://dbpedia.org/ontology/office> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Chancellor_of_Germany> <http://dbpedia.org/ontology/office> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person>}"
+  },
+  {
+    "ID": 15150,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/spouse> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/spouse> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15151,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/World_of_Warcraft> <http://dbpedia.org/ontology/developer> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/World_of_Warcraft> <http://dbpedia.org/ontology/developer> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15152,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15153,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/series> <http://dbpedia.org/resource/The_Sopranos> . ?x <http://dbpedia.org/ontology/seasonNumber> ?uri . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/series> <http://dbpedia.org/resource/The_Sopranos> . ?x <http://dbpedia.org/ontology/seasonNumber> ?uri . }",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/The_Sopranos> <http://dbpedia.org/ontology/series> ?x. ?x <http://dbpedia.org/ontology/seasonNumber> ?uri }",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/The_Sopranos> <http://dbpedia.org/ontology/series> ?x. ?x <http://dbpedia.org/ontology/seasonNumber> ?uri }"
+  },
+  {
+    "ID": 15154,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15155,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15156,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/John_F._Kennedy> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/John_F._Kennedy> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/John_F._Kennedy> <http://dbpedia.org/ontology/deathPlace> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/John_F._Kennedy> <http://dbpedia.org/ontology/deathPlace> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City>}"
+  },
+  {
+    "ID": 15157,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15158,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15159,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Wikipedia> <http://dbpedia.org/ontology/author> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Wikipedia> <http://dbpedia.org/ontology/author> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15160,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Last_Action_Hero> <http://dbpedia.org/ontology/starring> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Last_Action_Hero> <http://dbpedia.org/ontology/starring> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15161,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15162,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15163,
+    "Query1": "ASK WHERE { <http://dbpedia.org/resource/Velvet_Goldmine> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Christian_Bale> }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15164,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15165,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15166,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15167,
+    "Query1": "ASK WHERE { <http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/spouse> ?v1. }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15168,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Hal_Roach> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Hal_Roach> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Hal_Roach> <http://dbpedia.org/ontology/producer> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Hal_Roach> <http://dbpedia.org/ontology/producer> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}"
+  },
+  {
+    "ID": 15169,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15170,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Estonia> <http://dbpedia.org/ontology/spokenIn> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Estonia> <http://dbpedia.org/ontology/spokenIn> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15171,
+    "Query1": "SELECT (COUNT(DISTINCT ?x) as ?c) WHERE{ <http://dbpedia.org/resource/Aldi> <http://dbpedia.org/ontology/numberOfLocations> ?v1. }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15172,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15173,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15174,
+    "Query1": "SELECT (COUNT(DISTINCT ?x) as ?c) WHERE{ <http://dbpedia.org/resource/Hal_Roach> <http://dbpedia.org/ontology/producer> ?v1. }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15175,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15176,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Danielle_Steel> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Danielle_Steel> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Danielle_Steel> <http://dbpedia.org/ontology/author> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Danielle_Steel> <http://dbpedia.org/ontology/author> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book>}"
+  },
+  {
+    "ID": 15177,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15178,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15179,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Grunge> . ?uri <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Canada> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/RecordLabel>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Grunge> . ?uri <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Canada> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/RecordLabel>}",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15180,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15181,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/GIMP> <http://dbpedia.org/ontology/programmingLanguage> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/GIMP> <http://dbpedia.org/ontology/programmingLanguage> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15182,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Natalie_Portman> . ?x <http://dbpedia.org/ontology/producer> ?uri . ?x <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Natalie_Portman> . ?x <http://dbpedia.org/ontology/producer> ?uri . ?x <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15183,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Tom_Cruise> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film.>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Tom_Cruise> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film.>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Tom_Cruise> <http://dbpedia.org/ontology/starring> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film.>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Tom_Cruise> <http://dbpedia.org/ontology/starring> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film.>}"
+  },
+  {
+    "ID": 15184,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Julia_Roberts> . ?uri <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Richard_Gere.> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Julia_Roberts> . ?uri <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Richard_Gere.> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15185,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15186,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/The_Pillars_of_the_Earth> <http://dbpedia.org/ontology/author> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/The_Pillars_of_the_Earth> <http://dbpedia.org/ontology/author> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15187,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Leonardo_DiCaprio> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Leonardo_DiCaprio> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Leonardo_DiCaprio> <http://dbpedia.org/ontology/starring> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Leonardo_DiCaprio> <http://dbpedia.org/ontology/starring> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}"
+  },
+  {
+    "ID": 15188,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/Premier_League> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/Premier_League> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Premier_League> <http://dbpedia.org/ontology/league> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Premier_League> <http://dbpedia.org/ontology/league> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub>}"
+  },
+  {
+    "ID": 15189,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15190,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Capcom> <http://dbpedia.org/ontology/foundingDate> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Capcom> <http://dbpedia.org/ontology/foundingDate> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15191,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15192,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15193,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15194,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15195,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15196,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15197,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15198,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15199,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15200,
+    "Query1": "SELECT (COUNT(DISTINCT ?x) as ?c) WHERE { ?x <http://dbpedia.org/ontology/largestCity> <http://dbpedia.org/resource/Canada> . ?x <http://dbpedia.org/ontology/populationTotal> ?uri . }",
+    "Query2": "SELECT (COUNT(DISTINCT ?x) as ?c) WHERE { <http://dbpedia.org/resource/Canada> <http://dbpedia.org/ontology/largestCity> ?x. ?x <http://dbpedia.org/ontology/populationTotal> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15201,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15202,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Mount_Everest> <http://dbpedia.org/ontology/firstAscentPerson> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Mount_Everest> <http://dbpedia.org/ontology/firstAscentPerson> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15203,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15204,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/University_of_Oxford> <http://dbpedia.org/ontology/officialSchoolColour> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/University_of_Oxford> <http://dbpedia.org/ontology/officialSchoolColour> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15205,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15206,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/The_Three_Dancers> . ?x <http://dbpedia.org/ontology/movement> ?uri . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/The_Three_Dancers> . ?x <http://dbpedia.org/ontology/movement> ?uri . }",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/The_Three_Dancers> <http://dbpedia.org/ontology/author> ?x. ?x <http://dbpedia.org/ontology/movement> ?uri }",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/The_Three_Dancers> <http://dbpedia.org/ontology/author> ?x. ?x <http://dbpedia.org/ontology/movement> ?uri }"
+  },
+  {
+    "ID": 15207,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15208,
+    "Query1": "ASK WHERE { <http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/deathPlace> ?v1. }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15209,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Lake_Placid_(Texas)> <http://dbpedia.org/ontology/depth> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Lake_Placid_(Texas)> <http://dbpedia.org/ontology/depth> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15210,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Bruce_Lee> . ?x <http://dbpedia.org/ontology/child> ?uri . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Bruce_Lee> . ?x <http://dbpedia.org/ontology/child> ?uri . }",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Bruce_Lee> <http://dbpedia.org/ontology/child> ?x. ?x <http://dbpedia.org/ontology/child> ?uri }",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Bruce_Lee> <http://dbpedia.org/ontology/child> ?x. ?x <http://dbpedia.org/ontology/child> ?uri }"
+  },
+  {
+    "ID": 15211,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15212,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Johann_Sebastian_Bach> <http://dbpedia.org/ontology/birthPlace> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Johann_Sebastian_Bach> <http://dbpedia.org/ontology/birthPlace> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15213,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/West_African_CFA_franc> <http://dbpedia.org/ontology/currency> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/West_African_CFA_franc> <http://dbpedia.org/ontology/currency> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15214,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15215,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15216,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/inflow> <http://dbpedia.org/resource/Isar> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lake>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/inflow> <http://dbpedia.org/resource/Isar> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lake>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Isar> <http://dbpedia.org/ontology/inflow> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lake>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Isar> <http://dbpedia.org/ontology/inflow> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lake>}"
+  },
+  {
+    "ID": 15217,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Steven_Spielberg> . ?x <http://dbpedia.org/ontology/budget> ?uri . ?x <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Steven_Spielberg> . ?x <http://dbpedia.org/ontology/budget> ?uri . ?x <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15218,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Nobel_Prize_in_Literature> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Writer>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Nobel_Prize_in_Literature> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Writer>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Nobel_Prize_in_Literature> <http://dbpedia.org/ontology/award> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Writer>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Nobel_Prize_in_Literature> <http://dbpedia.org/ontology/award> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Writer>}"
+  },
+  {
+    "ID": 15219,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/China> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Astronaut>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/China> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Astronaut>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/China> <http://dbpedia.org/ontology/nationality> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Astronaut>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/China> <http://dbpedia.org/ontology/nationality> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Astronaut>}"
+  },
+  {
+    "ID": 15220,
+    "Query1": "SELECT (COUNT(DISTINCT ?x) as ?c) WHERE{ <http://dbpedia.org/resource/War_and_Peace> <http://dbpedia.org/ontology/numberOfPages> ?v1. }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15221,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15222,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15223,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Atlanta_Falcons> . ?x <http://dbpedia.org/ontology/height> ?uri . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Atlanta_Falcons> . ?x <http://dbpedia.org/ontology/height> ?uri . }",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Atlanta_Falcons> <http://dbpedia.org/ontology/team> ?x. ?x <http://dbpedia.org/ontology/height> ?uri }",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Atlanta_Falcons> <http://dbpedia.org/ontology/team> ?x. ?x <http://dbpedia.org/ontology/height> ?uri }"
+  },
+  {
+    "ID": 15224,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15225,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15226,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/launchSite> <http://dbpedia.org/resource/Baikonur_Cosmodrome> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/launchSite> <http://dbpedia.org/resource/Baikonur_Cosmodrome> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Baikonur_Cosmodrome> <http://dbpedia.org/ontology/launchSite> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Baikonur_Cosmodrome> <http://dbpedia.org/ontology/launchSite> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rocket>}"
+  },
+  {
+    "ID": 15227,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15228,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Netherlands> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Netherlands> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Netherlands> <http://dbpedia.org/ontology/country> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Netherlands> <http://dbpedia.org/ontology/country> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty>}"
+  },
+  {
+    "ID": 15229,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15230,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Oceanography> . ?uri <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Sweden> . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Oceanography> . ?uri <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Sweden> . }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15231,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Berlin> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Actor>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Berlin> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Actor>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Berlin> <http://dbpedia.org/ontology/birthPlace> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Actor>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Berlin> <http://dbpedia.org/ontology/birthPlace> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Actor>}"
+  },
+  {
+    "ID": 15232,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Alec_Guinness> . ?x <http://dbpedia.org/ontology/releaseDate> ?uri . ?x <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Alec_Guinness> . ?x <http://dbpedia.org/ontology/releaseDate> ?uri . ?x <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>}",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15233,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Poet> . ?x <http://dbpedia.org/ontology/author> ?uri . ?x <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Poet> . ?x <http://dbpedia.org/ontology/author> ?uri . ?x <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book>}",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15234,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Colombia> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Language>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Colombia> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Language>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Colombia> <http://dbpedia.org/ontology/language> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Language>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Colombia> <http://dbpedia.org/ontology/language> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Language>}"
+  },
+  {
+    "ID": 15235,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15236,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15237,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15238,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15239,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Carrot_cake> <http://dbpedia.org/ontology/ingredient> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Carrot_cake> <http://dbpedia.org/ontology/ingredient> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15240,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15241,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Tom_Cruise.> <http://dbpedia.org/ontology/spouse> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Tom_Cruise.> <http://dbpedia.org/ontology/spouse> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15242,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Tim_Burton> . ?x <http://dbpedia.org/ontology/budget> ?uri . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Tim_Burton> . ?x <http://dbpedia.org/ontology/budget> ?uri . }",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Tim_Burton> <http://dbpedia.org/ontology/director> ?x. ?x <http://dbpedia.org/ontology/budget> ?uri }",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Tim_Burton> <http://dbpedia.org/ontology/director> ?x. ?x <http://dbpedia.org/ontology/budget> ?uri }"
+  },
+  {
+    "ID": 15243,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15244,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15245,
+    "Query1": "ASK WHERE { <http://dbpedia.org/resource/James_Bond> <http://dbpedia.org/ontology/spouse> ?v1. }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15246,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15247,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Paris> . ?x <http://dbpedia.org/ontology/birthDate> ?uri . ?x <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Actor>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Paris> . ?x <http://dbpedia.org/ontology/birthDate> ?uri . ?x <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Actor>}",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15248,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15249,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15250,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15251,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Moscow> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Swimmer>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Moscow> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Swimmer>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Moscow> <http://dbpedia.org/ontology/birthPlace> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Swimmer>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Moscow> <http://dbpedia.org/ontology/birthPlace> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Swimmer>}"
+  },
+  {
+    "ID": 15252,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15253,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Muhammad_Ali> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Muhammad_Ali> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Muhammad_Ali> <http://dbpedia.org/ontology/author> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Muhammad_Ali> <http://dbpedia.org/ontology/author> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book>}"
+  },
+  {
+    "ID": 15254,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Paris> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Museum>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Paris> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Museum>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Paris> <http://dbpedia.org/ontology/location> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Museum>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Paris> <http://dbpedia.org/ontology/location> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Museum>}"
+  },
+  {
+    "ID": 15255,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15256,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15257,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Neil_Patrick_Harris> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Neil_Patrick_Harris> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Neil_Patrick_Harris> <http://dbpedia.org/ontology/starring> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Neil_Patrick_Harris> <http://dbpedia.org/ontology/starring> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow>}"
+  },
+  {
+    "ID": 15258,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/The_Hunger_Games> <http://dbpedia.org/ontology/author> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/The_Hunger_Games> <http://dbpedia.org/ontology/author> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15259,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/Bundesliga> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/Bundesliga> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Bundesliga> <http://dbpedia.org/ontology/league> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Bundesliga> <http://dbpedia.org/ontology/league> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub>}"
+  },
+  {
+    "ID": 15260,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15261,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Penguin_Books> <http://dbpedia.org/ontology/founder> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Penguin_Books> <http://dbpedia.org/ontology/founder> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15262,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/JavaScript> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ProgrammingLanguage>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/JavaScript> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ProgrammingLanguage>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/JavaScript> <http://dbpedia.org/ontology/influenced> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ProgrammingLanguage>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/JavaScript> <http://dbpedia.org/ontology/influenced> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ProgrammingLanguage>}"
+  },
+  {
+    "ID": 15263,
+    "Query1": "ASK WHERE { <http://dbpedia.org/resource/Che_Guevara> <http://dbpedia.org/ontology/child> ?v1. }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15264,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/musicBy> <http://dbpedia.org/resource/Elton_John> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Musical>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/musicBy> <http://dbpedia.org/resource/Elton_John> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Musical>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Elton_John> <http://dbpedia.org/ontology/musicBy> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Musical>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Elton_John> <http://dbpedia.org/ontology/musicBy> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Musical>}"
+  },
+  {
+    "ID": 15265,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15266,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/RMS_Titanic> <http://dbpedia.org/ontology/completionDate> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/RMS_Titanic> <http://dbpedia.org/ontology/completionDate> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15267,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Pulp_Fiction> <http://dbpedia.org/ontology/budget> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Pulp_Fiction> <http://dbpedia.org/ontology/budget> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15268,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15269,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15270,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15271,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15272,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/crosses> <http://dbpedia.org/resource/Seine> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/crosses> <http://dbpedia.org/resource/Seine> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Seine> <http://dbpedia.org/ontology/crosses> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Seine> <http://dbpedia.org/ontology/crosses> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge>}"
+  },
+  {
+    "ID": 15273,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/French_Polynesia> . ?x <http://dbpedia.org/ontology/mayor> ?uri . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/French_Polynesia> . ?x <http://dbpedia.org/ontology/mayor> ?uri . }",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/French_Polynesia> <http://dbpedia.org/ontology/capital> ?x. ?x <http://dbpedia.org/ontology/mayor> ?uri }",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/French_Polynesia> <http://dbpedia.org/ontology/capital> ?x. ?x <http://dbpedia.org/ontology/mayor> ?uri }"
+  },
+  {
+    "ID": 15274,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Count_Dracula> . ?x <http://dbpedia.org/ontology/deathDate> ?uri . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Count_Dracula> . ?x <http://dbpedia.org/ontology/deathDate> ?uri . }",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Count_Dracula> <http://dbpedia.org/ontology/creator> ?x. ?x <http://dbpedia.org/ontology/deathDate> ?uri }",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Count_Dracula> <http://dbpedia.org/ontology/creator> ?x. ?x <http://dbpedia.org/ontology/deathDate> ?uri }"
+  },
+  {
+    "ID": 15275,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Palace_of_Westminster> <http://dbpedia.org/ontology/location> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Palace_of_Westminster> <http://dbpedia.org/ontology/location> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15276,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/architecturalStyle> <http://dbpedia.org/resource/English_Gothic_architecture> . ?uri <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Kent> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/architecturalStyle> <http://dbpedia.org/resource/English_Gothic_architecture> . ?uri <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Kent> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building>}",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15277,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/foundedBy> <http://dbpedia.org/resource/Vatican_Television_Center> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Pope>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/foundedBy> <http://dbpedia.org/resource/Vatican_Television_Center> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Pope>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Vatican_Television_Center> <http://dbpedia.org/ontology/foundedBy> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Pope>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Vatican_Television_Center> <http://dbpedia.org/ontology/foundedBy> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Pope>}"
+  },
+  {
+    "ID": 15278,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15279,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Melbourne> <http://dbpedia.org/ontology/populationTotal> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Melbourne> <http://dbpedia.org/ontology/populationTotal> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15280,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Air_China> <http://dbpedia.org/ontology/targetAirport> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Air_China> <http://dbpedia.org/ontology/targetAirport> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15281,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Rachel_Stevens> <http://dbpedia.org/ontology/birthYear> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Rachel_Stevens> <http://dbpedia.org/ontology/birthYear> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15282,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/John_F._Kennedy> <http://dbpedia.org/ontology/deathPlace> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/John_F._Kennedy> <http://dbpedia.org/ontology/deathPlace> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15283,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Politician> . ?uri <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/Columbia_University> . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Politician> . ?uri <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/Columbia_University> . }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15284,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Manhattan_Project> . ?uri <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Nobel_Peace_Prize> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Scientist>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Manhattan_Project> . ?uri <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Nobel_Peace_Prize> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Scientist>}",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15285,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15286,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15287,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15288,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Facebook> <http://dbpedia.org/ontology/foundedBy> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Facebook> <http://dbpedia.org/ontology/foundedBy> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15289,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Melon_de_Bourgogne> <http://dbpedia.org/ontology/wineRegion> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Melon_de_Bourgogne> <http://dbpedia.org/ontology/wineRegion> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15290,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Socrates> <http://dbpedia.org/ontology/influencedBy> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Socrates> <http://dbpedia.org/ontology/influencedBy> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15291,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15292,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15293,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15294,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Jacques_Chirac> <http://dbpedia.org/ontology/spouse> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Jacques_Chirac> <http://dbpedia.org/ontology/spouse> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15295,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15296,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/wineProduced> <http://dbpedia.org/resource/Sparkling_wine> . ?uri <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/France> . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/wineProduced> <http://dbpedia.org/resource/Sparkling_wine> . ?uri <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/France> . }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15297,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Hillel_Slovak> <http://dbpedia.org/ontology/deathPlace> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Hillel_Slovak> <http://dbpedia.org/ontology/deathPlace> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15298,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/San_Pedro_de_Atacama> <http://dbpedia.org/ontology/timezone> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/San_Pedro_de_Atacama> <http://dbpedia.org/ontology/timezone> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15299,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Chile_Route_68> <http://dbpedia.org/ontology/routeEnd> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Chile_Route_68> <http://dbpedia.org/ontology/routeEnd> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15300,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15301,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15302,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Mvezo> <http://dbpedia.org/ontology/birthPlace> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Mvezo> <http://dbpedia.org/ontology/birthPlace> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15303,
+    "Query1": "SELECT (COUNT(DISTINCT ?x) as ?c) WHERE{ <http://dbpedia.org/resource/Henry_Fonda> <http://dbpedia.org/ontology/parent> ?v1. }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15304,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Victoria_Cross> <http://dbpedia.org/ontology/award> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Victoria_Cross> <http://dbpedia.org/ontology/award> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15305,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15306,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Steve_Jobs> <http://dbpedia.org/ontology/relative> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Steve_Jobs> <http://dbpedia.org/ontology/relative> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15307,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Wu-Tang_Clan> <http://dbpedia.org/ontology/bandMember> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Wu-Tang_Clan> <http://dbpedia.org/ontology/bandMember> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15308,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15309,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15310,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15311,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15312,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15313,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15314,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Los_Alamos> . ?uri <http://dbpedia.org/ontology/deathCause> <http://dbpedia.org/resource/Acute_radiation_syndrome> . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Los_Alamos> . ?uri <http://dbpedia.org/ontology/deathCause> <http://dbpedia.org/resource/Acute_radiation_syndrome> . }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15315,
+    "Query1": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/Bank_of_America> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building.>}",
+    "Query2": "SELECT DISTINCT ?uri WHERE {?uri <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/Bank_of_America> . ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building.>}",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Bank_of_America> <http://dbpedia.org/ontology/owner> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building.>}",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Bank_of_America> <http://dbpedia.org/ontology/owner> ?uri. ?uri <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building.>}"
+  },
+  {
+    "ID": 15316,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/architect> <http://dbpedia.org/resource/Shreve> . ?uri <http://dbpedia.org/ontology/architecturalStyle> <http://dbpedia.org/resource/Art_Deco> . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/architect> <http://dbpedia.org/resource/Shreve> . ?uri <http://dbpedia.org/ontology/architecturalStyle> <http://dbpedia.org/resource/Art_Deco> . }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15317,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15318,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15319,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15320,
+    "Query1": "ASK WHERE { <http://dbpedia.org/resource/Rosetta_Stone> <http://dbpedia.org/ontology/museum> <http://dbpedia.org/resource/Gayer-Anderson_cat> }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15321,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Friends> <http://dbpedia.org/ontology/starring> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Friends> <http://dbpedia.org/ontology/starring> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15322,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Gaborone> <http://dbpedia.org/ontology/capital> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Gaborone> <http://dbpedia.org/ontology/capital> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15323,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Madama_Butterfly> <http://dbpedia.org/ontology/birthDate> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Madama_Butterfly> <http://dbpedia.org/ontology/birthDate> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15324,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15325,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Francis_Ford_Coppola> <http://dbpedia.org/ontology/child> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Francis_Ford_Coppola> <http://dbpedia.org/ontology/child> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15326,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15327,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15328,
+    "Query1": "ASK WHERE { <http://dbpedia.org/resource/France> <http://dbpedia.org/ontology/deathPlace> ?v1. }",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15329,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/lastAppearance> <http://dbpedia.org/resource/James_Bond> . ?uri <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/William_Boyd_(writer)> . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/lastAppearance> <http://dbpedia.org/resource/James_Bond> . ?uri <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/William_Boyd_(writer)> . }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15330,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15331,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15332,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15333,
+    "Query1": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Buzz_Kulik> . ?x <http://dbpedia.org/ontology/starring> ?uri . }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { ?x <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Buzz_Kulik> . ?x <http://dbpedia.org/ontology/starring> ?uri . }",
+    "Query3": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Buzz_Kulik> <http://dbpedia.org/ontology/director> ?x. ?x <http://dbpedia.org/ontology/starring> ?uri }",
+    "Query4": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Buzz_Kulik> <http://dbpedia.org/ontology/director> ?x. ?x <http://dbpedia.org/ontology/starring> ?uri }"
+  },
+  {
+    "ID": 15334,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15335,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Chinese_language> <http://dbpedia.org/ontology/spokenIn> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Chinese_language> <http://dbpedia.org/ontology/spokenIn> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15336,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/William_Faulkner> <http://dbpedia.org/ontology/largestCity> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/William_Faulkner> <http://dbpedia.org/ontology/largestCity> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15337,
+    "Query1": "",
+    "Query2": "",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15338,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Charles_Dickens> <http://dbpedia.org/ontology/author> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Charles_Dickens> <http://dbpedia.org/ontology/author> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  },
+  {
+    "ID": 15339,
+    "Query1": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Mona_Lisa> <http://dbpedia.org/ontology/museum> ?uri }",
+    "Query2": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Mona_Lisa> <http://dbpedia.org/ontology/museum> ?uri }",
+    "Query3": "",
+    "Query4": ""
+  }
+]

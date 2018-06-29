@@ -1,0 +1,7 @@
+
+Naive Algorithms Time Data:
+Num. fq. substrings:10959
+Length of the longest fq. substring: 30
+Avg. length of fq. substrings:11
+Execution Time: 306.492707968 seconds
+

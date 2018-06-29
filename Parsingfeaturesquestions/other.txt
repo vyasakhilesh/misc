@@ -1,0 +1,21 @@
+qlen = f.findQuestionLength(line[1])
+    tagList = f.findNumofTagsList(tagFile.readline())
+    tagStr = f.listToString(tagList)
+    trpLen = f.findNumOftriples(line[2])
+    resLen = f.findNumOfRes(line[2])
+    clsLen = f.findNumOfOntoCls(line[2])
+    ontLen = f.findNumOfOntoO(line[2])
+    ansTypeList = f.findNoOfAnsTypesList(line[1])
+    ansTypeStr = f.listToString(ansTypeList)
+    dbList.append(resLen)
+    dbList.append(clsLen)
+    dbList.append(ontLen)
+    dbStr = f.listToString(dbList)
+
+    #csvWriter.writerow([line[0], line[1], qlen, trpLen, dbStr, tagStr, ansTypeStr])
+    csvWriter.writerow([line[0], line[1], qlen, trpLen, dbList[0], dbList[1], dbList[2], tagList[0], tagList[1], tagList[2],
+                        tagList[3], tagList[4], tagList[5], tagList[6], tagList[7], tagList[8], tagList[9], tagList[10], tagList[11],
+                        tagList[12], tagList[13], tagList[14], tagList[15], tagList[16], tagList[17], tagList[18], tagList[19], tagList[20],
+                        tagList[21], tagList[22], tagList[23],
+                        ansTypeList[0], ansTypeList[1], ansTypeList[2]])
+

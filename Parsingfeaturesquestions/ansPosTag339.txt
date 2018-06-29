@@ -1,0 +1,238 @@
+Give_VB me_PRP all_DT cosmonauts_NNS ._. ?_.
+In_IN which_WDT country_NN does_VBZ the_DT Ganges_NNP start_VB ?_.
+Which_WDT German_JJ cities_NNS have_VBP more_JJR than_IN 250000_CD inhabitants_NNS ?_.
+Who_WP was_VBD John_NNP F._NNP Kennedy_NNP 's_POS vice_NN president_NN ?_.
+Who_WP is_VBZ the_DT mayor_NN of_IN Berlin_NNP ?_.
+How_WRB many_JJ students_NNS does_VBZ the_DT Free_NNP University_NNP in_IN Amsterdam_NNP have_VB ?_.
+What_WP is_VBZ the_DT second_JJ highest_JJS mountain_NN on_IN Earth_NNP ?_.
+Give_VB me_PRP all_DT professional_JJ skateboarders_NNS from_IN Sweden_NNP ._. ?_.
+Give_VB me_PRP a_DT list_NN of_IN all_DT bandleaders_NNS that_WDT play_VBP trumpet_NN ._. ?_.
+Which_WDT countries_NNS have_VBP more_JJR than_IN ten_CD caves_NNS ?_.
+Who_WP produces_VBZ Orangina_NNP ?_.
+Who_WP is_VBZ the_DT Formula_NN 1_CD race_NN driver_NN with_IN the_DT most_RBS races_NNS ?_.
+Who_WP is_VBZ the_DT youngest_JJS player_NN in_IN the_DT Premier_NNP League_NNP ?_.
+Give_VB me_PRP all_DT members_NNS of_IN Prodigy_NNP ._. ?_.
+Does_VBZ Breaking_VBG Bad_JJ have_VBP more_JJR episodes_NNS than_IN Game_NN of_IN Thrones_NNPS ?_.
+What_WP were_VBD the_DT main_JJ discoveries_NNS of_IN the_DT Mars_NNP rover_NN Curiosity_NN ?_.
+Give_VB me_PRP all_DT people_NNS that_WDT were_VBD born_VBN in_IN Vienna_NNP and_CC died_VBD in_IN Berlin_NNP ._. ?_.
+Is_VBZ proinsulin_NN a_DT protein_NN ?_.
+How_WRB tall_JJ is_VBZ Michael_NNP Jordan_NNP ?_.
+What_WP is_VBZ the_DT capital_NN of_IN Canada_NNP ?_.
+How_WRB many_JJ languages_NNS are_VBP spoken_VBN in_IN Turkmenistan_NNP ?_.
+Give_VB me_PRP all_DT movies_NNS directed_VBN by_IN Francis_NNP Ford_NNP Coppola_NNP ._. ?_.
+Give_VB me_PRP all_DT actors_NNS starring_VBG in_IN movies_NNS directed_VBN by_IN William_NNP Shatner_NNP ._. ?_.
+Are_VBP tree_NN frogs_NNS a_DT type_NN of_IN amphibian_NN ?_.
+How_WRB often_RB did_VBD Jane_NNP Fonda_NNP marry_VB ?_.
+Give_VB me_PRP all_DT Australian_JJ nonprofit_JJ organizations_NNS ._. ?_.
+In_IN which_WDT military_JJ conflicts_NNS did_VBD Lawrence_NNP of_IN Arabia_NNP participate_VB ?_.
+Who_WP developed_VBD Minecraft_NNP ?_.
+How_WRB many_JJ inhabitants_NNS does_VBZ Maribor_NNP have_VB ?_.
+Give_VB me_PRP all_DT companies_NNS in_IN Munich_NNP ._. ?_.
+How_WRB tall_JJ is_VBZ Claudia_NNP Schiffer_NNP ?_.
+List_VB all_DT games_NNS by_IN GMT_NNP ._. ?_.
+Who_WP founded_VBD Intel_NNP ?_.
+Which_WDT cities_NNS does_VBZ the_DT Weser_NNP flow_NN through_IN ?_.
+Which_WDT countries_NNS are_VBP connected_VBN by_IN the_DT Rhine_NNP ?_.
+Which_WDT professional_JJ surfers_NNS were_VBD born_VBN in_IN Australia_NNP ?_.
+In_IN which_WDT UK_NNP city_NN are_VBP the_DT headquarters_NN of_IN the_DT MI6_NN ?_.
+Who_WP created_VBD Goofy_NNP ?_.
+Was_VBD the_DT Cuban_JJ Missile_NNP Crisis_NNP earlier_JJR than_IN the_DT Bay_NNP of_IN Pigs_NNP Invasion_NNP ?_.
+Give_VB me_PRP all_DT islands_NNS that_WDT belong_VBP to_TO Japan_NNP ._. ?_.
+Give_VB me_PRP all_DT Apollo_NNP 14_CD astronauts_NNS ._. ?_.
+How_WRB many_JJ missions_NNS does_VBZ the_DT Soyuz_NNP programme_NN have_VB ?_.
+Did_VBD Socrates_NNP influence_VB Aristotle_NNP ?_.
+Give_VB me_PRP all_DT Danish_JJ movies_NNS ._. ?_.
+Give_VB me_PRP all_DT launch_NN pads_NNS operated_VBN by_IN NASA_NNP ._. ?_.
+Which_WDT instruments_NNS does_VBZ Cat_NNP Stevens_NNP play_VB ?_.
+Who_WP are_VBP the_DT parents_NNS of_IN the_DT wife_NN of_IN Juan_NNP Carlos_NNP I_PRP ?_.
+How_WRB many_JJ employees_NNS does_VBZ Google_NNP have_VB ?_.
+Did_VBD Tesla_NNP win_VB a_DT nobel_JJ prize_NN in_IN physics_NNS ?_.
+Give_VB me_PRP all_DT cities_NNS in_IN New_NNP Jersey_NNP with_IN more_JJR than_IN 100000_CD inhabitants_NNS ._. ?_.
+Is_VBZ Rita_NNP Wilson_NNP the_DT wife_NN of_IN Tom_NNP Hanks_NNP ?_.
+How_WRB many_JJ children_NNS did_VBD Benjamin_NNP Franklin_NNP have_VB ?_.
+When_WRB did_VBD Michael_NNP Jackson_NNP die_VB ?_.
+Which_WDT Chess_NN players_NNS died_VBD in_IN the_DT same_JJ place_NN they_PRP were_VBD born_VBN in_IN ?_.
+List_VB the_DT children_NNS of_IN Margaret_NNP Thatcher_NNP ._. ?_.
+Was_VBD Margaret_NNP Thatcher_NNP a_DT chemist_NN ?_.
+Which_WDT museum_NN exhibits_VBZ The_DT Scream_NN by_IN Munch_NNP ?_.
+Give_VB me_PRP all_DT books_NNS by_IN William_NNP Goldman_NNP with_IN more_JJR than_IN 300_CD pages_NNS ._. ?_.
+Which_WDT books_NNS by_IN Kerouac_NNP were_VBD published_VBN by_IN Viking_JJ Press_NNP ?_.
+How_WRB high_JJ is_VBZ the_DT Mount_NNP Everest_NNP ?_.
+How_WRB many_JJ people_NNS live_VBP in_IN the_DT capital_NN of_IN Australia_NNP ?_.
+What_WP is_VBZ the_DT largest_JJS city_NN in_IN Australia_NNP ?_.
+Who_WP composed_VBN the_DT music_NN for_IN Harold_NNP and_CC Maude_NNP ?_.
+Which_WDT films_NNS starring_VBG Clint_NNP Eastwood_NNP did_VBD he_PRP direct_VB himself_PRP ?_.
+In_IN which_WDT city_NN was_VBD the_DT former_JJ Dutch_NNP queen_NN Juliana_NNP buried_VBN ?_.
+Is_VBZ Egypts_RB largest_JJS city_NN also_RB its_PRP$ capital_NN ?_.
+Show_NN me_PRP all_DT songs_NNS from_IN Bruce_NNP Springsteen_NNP released_VBD between_IN 1980_CD and_CC 1990_CD ._. ?_.
+Give_VB me_PRP all_DT B-sides_NNS of_IN the_DT Ramones_NNPS ._. ?_.
+Which_WDT country_NN does_VBZ the_DT creator_NN of_IN Miffy_NNP come_VB from_IN ?_.
+For_IN which_WDT label_NN did_VBD Elvis_NNP record_VB his_PRP$ first_JJ album_NN ?_.
+Give_VB me_PRP the_DT birthdays_NNS of_IN all_DT actors_NNS of_IN the_DT television_NN show_NN Charmed_NNP ._. ?_.
+How_WRB many_JJ employees_NNS does_VBZ IBM_NNP have_VB ?_.
+In_IN which_WDT country_NN is_VBZ the_DT Limerick_NNP Lake_NNP ?_.
+Which_WDT television_NN shows_NNS were_VBD created_VBN by_IN John_NNP Cleese_NNP ?_.
+Which_WDT mountain_NN is_VBZ the_DT highest_JJS after_IN the_DT Annapurna_NNP ?_.
+In_IN which_WDT films_NNS directed_VBN by_IN Garry_NNP Marshall_NNP was_VBD Julia_NNP Roberts_NNP starring_VBG ?_.
+Was_VBD U.S._NNP president_NN Jackson_NNP involved_VBN in_IN a_DT war_NN ?_.
+Which_WDT awards_NNS did_VBD Douglas_NNP Hofstadter_NNP win_VB ?_.
+Who_WP is_VBZ the_DT daughter_NN of_IN Robert_NNP Kennedy_NNP married_VBN to_TO ?_.
+What_WP is_VBZ the_DT currency_NN of_IN the_DT Czech_NNP Republic_NNP ?_.
+What_WP is_VBZ the_DT area_NN code_NN of_IN Berlin_NNP ?_.
+Which_WDT countries_NNS have_VBP more_JJR than_IN two_CD official_JJ languages_NNS ?_.
+Who_WP is_VBZ the_DT owner_NN of_IN Rolls-Royce_NNP ?_.
+Through_IN which_WDT countries_NNS does_VBZ the_DT Yenisei_NNP river_NN flow_NN ?_.
+Which_WDT monarchs_NNS were_VBD married_VBN to_TO a_DT German_JJ ?_.
+When_WRB was_VBD the_DT Battle_NN of_IN Gettysburg_NNP ?_.
+Which_WDT river_NN does_VBZ the_DT Brooklyn_NNP Bridge_NNP cross_VB ?_.
+What_WP is_VBZ the_DT highest_JJS mountain_NN in_IN Australia_NNP ?_.
+What_WP is_VBZ the_DT official_JJ language_NN of_IN Suriname_NNP ?_.
+Who_WP is_VBZ the_DT mayor_NN of_IN Tel_NNP Aviv_NNP ?_.
+Who_WP designed_VBD the_DT Brooklyn_NNP Bridge_NNP ?_.
+Is_VBZ Frank_NNP Herbert_NNP still_RB alive_JJ ?_.
+Who_WP is_VBZ the_DT editor_NN of_IN Forbes_NNP ?_.
+What_WP did_VBD Bruce_NNP Carver_NNP die_VB from_IN ?_.
+Which_WDT presidents_NNS were_VBD born_VBN in_IN 1945_CD ?_.
+Give_VB me_PRP all_DT federal_JJ chancellors_NNS of_IN Germany_NNP ._. ?_.
+Who_WP was_VBD the_DT wife_NN of_IN U.S._NNP president_NN Lincoln_NNP ?_.
+Who_WP developed_VBD the_DT video_NN game_NN World_NN of_IN Warcraft_NNP ?_.
+List_VB all_DT episodes_NNS of_IN the_DT first_JJ season_NN of_IN the_DT HBO_NNP television_NN series_NN The_DT Sopranos_NNPS ._. ?_.
+Who_WP produced_VBD the_DT most_RBS films_NNS ?_.
+In_IN which_WDT city_NN did_VBD John_NNP F._NNP Kennedy_NNP die_VB ?_.
+Is_VBZ there_EX a_DT video_NN game_NN called_VBN Battle_NNP Chess_NNP ?_.
+Who_WP created_VBD Wikipedia_NNP ?_.
+Give_VB me_PRP all_DT actors_NNS starring_VBG in_IN Last_JJ Action_NNP Hero_NNP ._. ?_.
+Which_WDT software_NN has_VBZ been_VBN developed_VBN by_IN organizations_NNS founded_VBN in_IN California_NNP ?_.
+Is_VBZ Christian_NNP Bale_NNP starring_VBG in_IN Velvet_NNP Goldmine_NNP ?_.
+Which_WDT actors_NNS were_VBD born_VBN in_IN Germany_NNP ?_.
+Was_VBD the_DT wife_NN of_IN president_NN Lincoln_NNP called_VBD Mary_NNP ?_.
+Give_VB me_PRP all_DT films_NNS produced_VBN by_IN Hal_NNP Roach_NNP ._. ?_.
+Which_WDT languages_NNS are_VBP spoken_VBN in_IN Estonia_NNP ?_.
+How_WRB many_JJ Aldi_NNP stores_NNS are_VBP there_EX ?_.
+Who_WP was_VBD the_DT 16th_JJ president_NN of_IN the_DT United_NNP States_NNPS ?_.
+How_WRB many_JJ films_NNS did_VBD Hal_NNP Roach_NNP produce_VB ?_.
+Give_VB me_PRP all_DT books_NNS written_VBN by_IN Danielle_NNP Steel_NNP ._. ?_.
+Which_WDT airports_NNS are_VBP located_JJ in_IN California_NNP ,_, USA_NNP ?_.
+Give_VB me_PRP all_DT Canadian_JJ Grunge_NN record_NN labels_NNS ._. ?_.
+In_IN which_WDT programming_NN language_NN is_VBZ GIMP_NNP written_VBN ?_.
+Who_WP produced_VBD films_NNS starring_VBG Natalie_NNP Portman_NNP ?_.
+Give_VB me_PRP all_DT movies_NNS with_IN Tom_NNP Cruise_NNP ._. ?_.
+In_IN which_WDT films_NNS did_VBD Julia_NNP Roberts_NNP as_RB well_RB as_IN Richard_NNP Gere_NNP play_VB ?_.
+Who_WP wrote_VBD the_DT book_NN The_DT Pillars_NNPS of_IN the_DT Earth_NNP ?_.
+How_WRB many_JJ films_NNS did_VBD Leonardo_NNP DiCaprio_NNP star_NN in_IN ?_.
+Give_VB me_PRP all_DT soccer_NN clubs_NNS in_IN the_DT Premier_NNP League_NNP ._. ?_.
+When_WRB was_VBD Capcom_NNP founded_VBN ?_.
+Which_WDT organizations_NNS were_VBD founded_VBN in_IN 1930_CD ?_.
+What_WP is_VBZ the_DT highest_JJS mountain_NN ?_.
+Was_VBD Natalie_NNP Portman_NNP born_VBN in_IN the_DT United_NNP States_NNPS ?_.
+How_WRB many_JJ inhabitants_NNS does_VBZ the_DT largest_JJS city_NN in_IN Canada_NNP have_VB ?_.
+In_IN which_WDT studio_NN did_VBD the_DT Beatles_NNPS record_VB their_PRP$ first_JJ album_NN ?_.
+Who_WP was_VBD the_DT first_JJ to_TO climb_VB Mount_NNP Everest_NNP ?_.
+How_WRB many_JJ programming_NN languages_NNS are_VBP there_EX ?_.
+What_WP is_VBZ the_DT official_JJ color_NN of_IN the_DT University_NNP of_IN Oxford_NNP ?_.
+How_WRB many_JJ gold_NN medals_NNS did_VBD Michael_NNP Phelps_NNP win_VB at_IN the_DT 2008_CD Olympics_NNPS ?_.
+To_TO which_WDT artistic_JJ movement_NN did_VBD the_DT painter_NN of_IN The_DT Three_CD Dancers_NNS belong_VB ?_.
+Give_VB me_PRP all_DT animals_NNS that_WDT are_VBP extinct_JJ ._. ?_.
+Does_VBZ Abraham_NNP Lincoln_NNP 's_POS death_NN place_NN have_VBP a_DT website_NN ?_.
+How_WRB deep_JJ is_VBZ Lake_NNP Placid_NNP ?_.
+Give_VB me_PRP the_DT grandchildren_NNS of_IN Bruce_NNP Lee_NNP ._. ?_.
+Who_WP is_VBZ the_DT youngest_JJS Darts_NNS player_NN ?_.
+Where_WRB was_VBD Bach_NNP born_VBN ?_.
+In_IN which_WDT countries_NNS can_MD you_PRP pay_VB using_VBG the_DT West_NNP African_NNP CFA_NNP franc_NN ?_.
+What_WP is_VBZ the_DT most_RBS frequent_JJ cause_NN of_IN death_NN ?_.
+Does_VBZ the_DT Isar_NN flow_NN into_IN a_DT lake_NN ?_.
+Give_VB me_PRP all_DT films_NNS produced_VBN by_IN Steven_NNP Spielberg_NNP with_IN a_DT budget_NN of_IN at_IN least_JJS $_$ 80_CD million_CD ._. ?_.
+Give_VB me_PRP all_DT writers_NNS that_WDT won_VBD the_DT Nobel_NNP Prize_NNP in_IN literature_NN ._. ?_.
+Give_VB me_PRP all_DT taikonauts_NNS ._. ?_.
+How_WRB many_JJ pages_NNS does_VBZ War_NNP and_CC Peace_NNP have_VB ?_.
+What_WP is_VBZ the_DT bridge_NN with_IN the_DT longest_JJS span_NN ?_.
+Who_WP is_VBZ the_DT tallest_JJS player_NN of_IN the_DT Atlanta_NNP Falcons_NNPS ?_.
+Which_WDT rivers_NNS flow_VBP into_IN a_DT German_JJ lake_NN ?_.
+Which_WDT rockets_NNS were_VBD launched_VBN from_IN Baikonur_NNP ?_.
+Which_WDT pope_NN succeeded_VBD John_NNP Paul_NNP II_NNP ?_.
+Give_VB me_PRP all_DT Dutch_JJ parties_NNS ._. ?_.
+Give_VB me_PRP all_DT Swedish_JJ oceanographers_NNS ._. ?_.
+Give_VB me_PRP all_DT actors_NNS who_WP were_VBD born_VBN in_IN Berlin_NNP ._. ?_.
+What_WP was_VBD the_DT last_JJ movie_NN with_IN Alec_NNP Guinness_NNP ?_.
+Which_WDT poet_NN wrote_VBD the_DT most_RBS books_NNS ?_.
+How_WRB many_JJ languages_NNS are_VBP spoken_VBN in_IN Colombia_NNP ?_.
+What_WP does_VBZ IYCM_NNP stand_VB for_IN ?_.
+Which_WDT ingredients_NNS do_VBP I_PRP need_VB for_IN carrot_NN cake_NN ?_.
+Is_VBZ Cola_NNP a_DT beverage_NN ?_.
+Who_WP has_VBZ Tom_NNP Cruise_NNP been_VBN married_VBN to_TO ?_.
+Which_WDT of_IN Tim_NNP Burton_NNP 's_POS films_NNS had_VBD the_DT highest_JJS budget_NN ?_.
+Which_WDT actor_NN was_VBD casted_VBN in_IN the_DT most_RBS movies_NNS ?_.
+Is_VBZ James_NNP Bond_NNP married_VBN ?_.
+Give_VB me_PRP all_DT Australian_JJ metalcore_NN bands_NNS ._. ?_.
+Give_VB me_PRP all_DT actors_NNS who_WP were_VBD born_VBN in_IN Paris_NNP after_IN 1950_CD ._. ?_.
+Give_VB all_DT swimmers_NNS that_WDT were_VBD born_VBN in_IN Moscow_NNP ._. ?_.
+Show_NN me_PRP the_DT book_NN that_WDT Muhammad_NNP Ali_NNP wrote_VBD ._. ?_.
+How_WRB many_JJ museums_NNS does_VBZ Paris_NNP have_VB ?_.
+Which_WDT city_NN has_VBZ the_DT most_RBS inhabitants_NNS ?_.
+Which_WDT city_NN has_VBZ the_DT least_JJS inhabitants_NNS ?_.
+Give_VB me_PRP all_PDT the_DT TV_NN shows_VBZ with_IN Neil_NNP Patrick_NNP Harris_NNP ._. ?_.
+Who_WP wrote_VBD The_DT Hunger_NNP Games_NNPS ?_.
+Show_NN a_DT list_NN of_IN soccer_NN clubs_NNS that_WDT play_VBP in_IN the_DT Bundesliga_NNP ._. ?_.
+Who_WP is_VBZ the_DT founder_NN of_IN Penguin_NNP Books_NNPS ?_.
+Which_WDT programming_NN languages_NNS influenced_VBD Javascript_NNP ?_.
+Did_VBD Che_NNP Guevara_NNP have_VBP children_NNS ?_.
+List_VB all_PDT the_DT musicals_NNS with_IN music_NN by_IN Elton_NNP John_NNP ._. ?_.
+Show_NN me_PRP all_PDT the_DT breweries_NNS in_IN Australia_NNP ._. ?_.
+When_WRB was_VBD the_DT Titanic_NNP completed_VBN ?_.
+How_WRB much_RB did_VBD Pulp_NNP Fiction_NNP cost_VB ?_.
+How_WRB many_JJ airlines_NNS are_VBP there_EX ?_.
+Which_WDT book_NN has_VBZ the_DT most_RBS pages_NNS ?_.
+Which_WDT bridges_NNS cross_VBP the_DT Seine_NNP ?_.
+Who_WP is_VBZ the_DT mayor_NN of_IN the_DT capital_NN of_IN French_JJ Polynesia_NN ?_.
+When_WRB did_VBD Dracula_NNP 's_POS creator_NN die_VB ?_.
+What_WP is_VBZ the_DT location_NN of_IN the_DT Houses_NNS of_IN Parliament_NNP ?_.
+Show_NN me_PRP all_DT English_JJ Gothic_JJ buildings_NNS in_IN Kent_NNP ._. ?_.
+Who_WP was_VBD the_DT pope_NN that_WDT founded_VBD the_DT Vatican_NNP Television_NNP ?_.
+What_WP is_VBZ the_DT total_JJ population_NN of_IN Melbourne_NNP ,_, Florida_NNP ?_.
+Which_WDT airports_NNS does_VBZ Air_NNP China_NNP serve_VB ?_.
+In_IN which_WDT year_NN was_VBD Rachel_NNP Stevens_NNP born_VBN ?_.
+Where_WRB was_VBD JFK_NNP assassinated_VBN ?_.
+How_WRB many_JJ politicians_NNS graduated_VBD from_IN Columbia_NNP University_NNP ?_.
+Which_WDT scientist_NN is_VBZ known_VBN for_IN the_DT Manhattan_NNP Project_NNP and_CC the_DT Nobel_NNP Peace_NNP Prize_NNP ?_.
+Who_WP is_VBZ the_DT owner_NN of_IN Facebook_NNP ?_.
+From_IN which_WDT region_NN is_VBZ the_DT Melon_NNP de_IN Bourgogne_NNP ?_.
+Who_WP was_VBD influenced_VBN by_IN Socrates_NNP ?_.
+Who_WP was_VBD married_VBN to_TO president_NN Chirac_NNP ?_.
+Where_WRB in_IN France_NNP is_VBZ sparkling_JJ wine_NN produced_VBN ?_.
+Where_WRB did_VBD Hillel_NNP Slovak_NNP die_VB ?_.
+What_WP is_VBZ the_DT timezone_NN in_IN San_NNP Pedro_NNP de_IN Atacama_NNP ?_.
+In_IN which_WDT city_NN does_VBZ the_DT Chile_NNP Route_NNP 68_CD end_VB ?_.
+Who_WP was_VBD vice_NN president_NN under_IN the_DT president_NN who_WP authorized_VBD atomic_JJ weapons_NNS against_IN Japan_NNP during_IN World_NNP War_NNP II_NNP ?_.
+Which_WDT anti-apartheid_JJ activist_NN was_VBD born_VBN in_IN Mvezo_NNP ?_.
+How_WRB many_JJ Golden_NNP Globe_NNP awards_NNS did_VBD the_DT daughter_NN of_IN Henry_NNP Fonda_NNP win_VB ?_.
+Which_WDT recipients_NNS of_IN the_DT Victoria_NNP Cross_NNP died_VBD in_IN the_DT Battle_NN of_IN Arnhem_NNP ?_.
+Where_WRB did_VBD the_DT first_JJ man_NN in_IN space_NN die_VB ?_.
+How_WRB old_JJ was_VBD Steve_NNP Jobs_NNP '_POS sister_NN when_WRB she_PRP first_RB met_VBD him_PRP ?_.
+Which_WDT members_NNS of_IN the_DT Wu-Tang_NNP Clan_NNP took_VBD their_PRP$ stage_NN name_NN from_IN a_DT movie_NN ?_.
+Which_WDT writers_NNS had_VBD influenced_VBN the_DT philosopher_NN that_WDT refused_VBD a_DT Nobel_NNP Prize_NNP ?_.
+Who_WP composed_VBN the_DT music_NN for_IN the_DT film_NN that_WDT depicts_VBZ the_DT early_JJ life_NN of_IN Jane_NNP Austin_NNP ?_.
+Which_WDT horses_NNS did_VBD The_DT Long_JJ Fellow_NNP ride_NN ?_.
+Of_IN the_DT people_NNS that_WDT died_VBD of_IN radiation_NN in_IN Los_NNP Alamos_NNP ,_, whose_WP$ death_NN was_VBD an_DT accident_NN ?_.
+Which_WDT building_NN owned_VBN by_IN the_DT Bank_NNP of_IN America_NNP was_VBD featured_VBN in_IN the_DT TV_NN series_NN MegaStructures_NNP ?_.
+Which_WDT buildings_NNS in_IN art_NN deco_NN style_NN did_VBD Shreve_NNP ,_, Lamb_NNP and_CC Harmon_NNP design_NN ?_.
+Which_WDT birds_NNS are_VBP protected_VBN under_IN the_DT National_NNP Parks_NNP and_CC Wildlife_NNP Act_NNP ?_.
+Which_WDT country_NN did_VBD the_DT first_JJ known_JJ photographer_NNP of_IN snowflakes_NNS come_VBN from_IN ?_.
+List_VB all_PDT the_DT battles_NNS commanded_VBN by_IN the_DT lover_NN of_IN Cleopatra_NNP ._. ?_.
+Are_VBP the_DT Rosetta_NNP Stone_NNP and_CC the_DT Gayer-Andersen_NNP cat_NN exhibited_VBD in_IN the_DT same_JJ museum_NN ?_.
+Which_WDT actress_NN starring_VBG in_IN the_DT TV_NN series_NN Friends_NNPS owns_VBZ the_DT production_NN company_NN Coquette_NNP Productions_NNP ?_.
+Gaborone_NNP is_VBZ the_DT capital_NN of_IN which_WDT country_NN member_NN of_IN the_DT African_NNP Union_NNP ?_.
+When_WRB was_VBD the_DT composer_NN of_IN the_DT opera_NN Madame_NNP Butterfly_NNP born_VBN ?_.
+For_IN which_WDT movie_NN did_VBD the_DT daughter_NN of_IN Francis_NNP Ford_NNP Coppola_NNP receive_VBP an_DT Oscar_NNP ?_.
+Which_WDT city_NN does_VBZ the_DT first_JJ person_NN to_TO climb_VB all_DT 14_CD eight-thousanders_NNS come_VBN from_IN ?_.
+At_IN which_WDT college_NN did_VBD the_DT only_JJ American_JJ actor_NN that_WDT received_VBD the_DT C_NN sar_NN Award_NN study_NN ?_.
+Did_VBD Napoleon_NNP 's_POS first_JJ wife_NN die_VB in_IN France_NNP ?_.
+How_WRB old_JJ is_VBZ James_NNP Bond_NNP in_IN the_DT latest_JJS Bond_NN book_NN by_IN William_NNP Boyd_NNP ?_.
+What_WP is_VBZ the_DT native_JJ city_NN of_IN Hollywood_NNP 's_POS highest-paid_JJ actress_NN ?_.
+In_IN which_WDT city_NN does_VBZ the_DT former_JJ main_JJ presenter_NN of_IN the_DT Xpos_NNP girls_NNS live_VB ?_.
+Who_WP plays_VBZ Phileas_NNP Fogg_NNP in_IN the_DT adaptation_NN of_IN Around_IN the_DT World_NN in_IN 80_CD Days_NNS directed_VBN by_IN Buzz_NNP Kulik_NNP ?_.
+Who_WP is_VBZ the_DT front_JJ man_NN of_IN the_DT band_NN that_WDT wrote_VBD Coffee_NNP &_CC TV_NNP ?_.
+Which_WDT Chinese-speaking_JJ country_NN is_VBZ a_DT former_JJ Portguese_NNP colony_NN ?_.
+What_WP is_VBZ the_DT largest_JJS city_NN in_IN the_DT county_NN in_IN which_WDT Faulkner_NNP spent_VBD most_JJS of_IN his_PRP$ life_NN ?_.
+In_IN which_WDT year_NN did_VBD the_DT Hungarian-American_JJ actor_NN called_VBN ``_`` The_DT King_NNP of_IN Horror_NNP ''_'' make_VB his_PRP$ first_JJ film_NN ?_.
+Under_IN which_WDT pseudonym_NN did_VBD Charles_NNP Dickens_NNP publish_VB some_DT of_IN his_PRP$ books_NNS ?_.
+A_DT landmark_NN of_IN which_WDT city_NN is_VBZ the_DT home_NN of_IN the_DT Mona_NNP Lisa_NNP ?_.
